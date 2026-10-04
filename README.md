@@ -4,7 +4,7 @@ Análisis de ventas 2023–2024 de **DataLatte S.A.**, una cadena ficticia de ca
 
 ## Aclaración importante
 
-Este repositorio **no es el proyecto original**. DataLatte es el caso práctico del curso de introducción a la ciencia de datos de la **UCU**: los datos, la empresa, los personajes (Lucía y Agustín) y la consigna del proyecto final pertenecen al curso.
+Este repositorio **no es el proyecto original, es una reescritura del proyecto final con la intención de aprender a graficar y explicar mejor los resultados**. DataLatte es el caso práctico del curso de introducción a la ciencia de datos de la **UCU**: los datos, la empresa, los personajes (Lucía y Agustín) y la consigna del proyecto final pertenecen al curso.
 
 Lo que hay acá es una **reescritura personal** del proyecto final que entregué. La rehice para aprender cómo mejorarlo: volví a recorrer el análisis con más cuidado, verifiqué cada cifra y repensé los gráficos. No reemplaza ni representa la entrega original, y no tiene fines comerciales.
 
