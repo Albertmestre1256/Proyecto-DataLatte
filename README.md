@@ -8,7 +8,7 @@ Este repositorio **no es el proyecto original**. DataLatte es el caso práctico 
 
 Lo que hay acá es una **reescritura personal** del proyecto final que entregué. La rehice para aprender cómo mejorarlo: volví a recorrer el análisis con más cuidado, verifiqué cada cifra y repensé los gráficos. No reemplaza ni representa la entrega original, y no tiene fines comerciales.
 
-> El notebook y el informe se redactaron con asistencia de IA (Claude) como herramienta de aprendizaje y verificación.
+> El notebook y el informe se redactaron con asistencia de IA (Claude específicamente) como herramienta de aprendizaje y verificación. La idea era aprender cómo mostrar mejor los datos del proyecto final, pues la visualización es uno de los puntos más difíciles para mi.
 
 ## La consigna
 
